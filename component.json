@@ -1,0 +1,19 @@
+{
+  "name": "rotate",
+  "author": "Jordan Santell",
+  "description": "UI component for CSS3 rotations",
+  "version": "0.0.1",
+  "keywords": [
+    "rotate",
+    "css3",
+    "transform",
+    "ui"
+  ],
+  "dependencies": {},
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "repo": "jsantell/rotate",
+  "twitter": "@jsantell"
+}
