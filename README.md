@@ -1,7 +1,7 @@
 rotate
 ====
 
-UI component for CSS3 rotations. Works in Chrome, Firefox, Opera, Safari, IE9+
+UI component for CSS3 rotations for use with [component](https://github.com/component/component). Works in Chrome, Firefox, Opera, Safari, IE9+
 
 ## Installation
 
